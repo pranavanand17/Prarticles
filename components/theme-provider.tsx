@@ -1,0 +1,13 @@
+"use client";
+
+import * as React from "react";
+import { ThemeProvider as NextThemesProvider } from "next-themes";
+
+/** Wraps the app so `next-themes` can toggle `class=\"dark\"` on `<html>`. */
+export function ThemeProvider({ children }: { children: React.ReactNode }) {
+  return (
+    <NextThemesProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange={false}>
+      {children}
+    </NextThemesProvider>
+  );
+}
