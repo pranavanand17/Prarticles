@@ -19,6 +19,9 @@ const basePath =
 const nextConfig: NextConfig = {
   /* Prefer this repo as the tracing root when another lockfile exists in a parent folder. */
   outputFileTracingRoot: path.join(__dirname),
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath ?? "",
+  },
   output: "export",
   trailingSlash: true,
   images: { unoptimized: true },

@@ -10,6 +10,12 @@ export type PostMeta = {
   slug: string;
   excerpt?: string;
   author?: string;
+  /** Path under `public/`, e.g. `/images/cover.png` */
+  coverImage?: string;
+  /** Shown under the cover; use with `coverHref` for a linked caption. */
+  coverCaption?: string;
+  coverHref?: string;
+  coverAlt?: string;
 };
 
 export type Post = PostMeta & { content: string };
@@ -32,6 +38,10 @@ export function getAllPosts(): PostMeta[] {
       slug: String(data.slug ?? ""),
       excerpt: data.excerpt != null ? String(data.excerpt) : undefined,
       author: data.author != null ? String(data.author) : undefined,
+      coverImage: data.coverImage != null ? String(data.coverImage) : undefined,
+      coverCaption: data.coverCaption != null ? String(data.coverCaption) : undefined,
+      coverHref: data.coverHref != null ? String(data.coverHref) : undefined,
+      coverAlt: data.coverAlt != null ? String(data.coverAlt) : undefined,
     } satisfies PostMeta;
   });
 
@@ -54,6 +64,10 @@ export function getPostBySlug(slug: string): Post | null {
         slug: String(data.slug ?? ""),
         excerpt: data.excerpt != null ? String(data.excerpt) : undefined,
         author: data.author != null ? String(data.author) : undefined,
+        coverImage: data.coverImage != null ? String(data.coverImage) : undefined,
+        coverCaption: data.coverCaption != null ? String(data.coverCaption) : undefined,
+        coverHref: data.coverHref != null ? String(data.coverHref) : undefined,
+        coverAlt: data.coverAlt != null ? String(data.coverAlt) : undefined,
         content: content.trim(),
       };
     }

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/article-body";
+import { ArticleCover } from "@/components/article-cover";
 import { markdownToHtml } from "@/lib/markdown";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { estimateReadingMinutes } from "@/lib/reading-time";
@@ -11,14 +12,25 @@ export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
 }
 
+function absoluteOgImageUrl(publicPath: string): string {
+  const base = (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
+  const path = publicPath.startsWith("/") ? publicPath : `/${publicPath}`;
+  return `${base}${path}`;
+}
+
 export async function generateMetadata(props: Props): Promise<Metadata> {
   const { slug } = await props.params;
   const post = getPostBySlug(slug);
   if (!post) return {};
+  const ogImage = post.coverImage ? absoluteOgImageUrl(post.coverImage) : undefined;
   return {
     title: post.title,
     description: post.excerpt ?? undefined,
-    openGraph: { title: post.title, description: post.excerpt },
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      ...(ogImage ? { images: [{ url: ogImage, alt: post.coverAlt ?? post.title }] } : {}),
+    },
   };
 }
 
@@ -58,6 +70,15 @@ export default async function PostPage(props: Props) {
           <span>{readingMinutes} min read</span>
         </div>
       </header>
+
+      {post.coverImage ? (
+        <ArticleCover
+          src={post.coverImage}
+          alt={post.coverAlt ?? post.title}
+          caption={post.coverCaption}
+          href={post.coverHref}
+        />
+      ) : null}
 
       <ArticleBody html={html} />
     </article>
