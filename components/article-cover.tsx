@@ -16,7 +16,7 @@ type Props = {
 export function ArticleCover({ src, alt, caption, href }: Props) {
   return (
     <figure className="mb-10 sm:mb-12">
-      <div className="relative aspect-[21/9] w-full overflow-hidden rounded-xl border border-zinc-200/80 bg-zinc-100 shadow-sm dark:border-zinc-800 dark:bg-zinc-900">
+      <div className="relative aspect-[21/9] w-full overflow-hidden border border-zinc-200/80 bg-zinc-100 shadow-sm dark:border-zinc-800 dark:bg-zinc-900">
         <Image
           src={publicAssetSrc(src)}
           alt={alt}

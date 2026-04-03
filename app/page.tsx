@@ -16,15 +16,6 @@ export default function HomePage() {
 
   return (
     <div className="mx-auto max-w-read px-5 py-16 sm:px-6 sm:py-20">
-      <header className="mb-14 sm:mb-16">
-        <h1 className="font-serif text-[2.25rem] font-bold leading-tight tracking-tight text-zinc-900 dark:text-zinc-50 sm:text-[2.5rem]">
-          Recent writing
-        </h1>
-        <p className="mt-3 max-w-xl font-sans text-base leading-relaxed text-zinc-500 dark:text-zinc-400">
-          Quiet pages, generous spacing, and typography tuned for long reads.
-        </p>
-      </header>
-
       <ul className="flex flex-col gap-12">
         {posts.map((post) => (
           <li key={post.slug}>
