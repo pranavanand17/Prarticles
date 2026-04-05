@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     default: "Prarticles",
     template: "%s · Prarticles",
   },
-  description: "A minimal, Medium-inspired reading experience built with Next.js.",
+  description: "I write stuff.",
 };
 
 export default function RootLayout({
