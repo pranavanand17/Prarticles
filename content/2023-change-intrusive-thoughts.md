@@ -2,7 +2,7 @@
 title: "2023, Change & My Intrusive Thoughts"
 date: "2026-01-18"
 slug: "2023-change-my-intrusive-thoughts"
-excerpt: "From The Last Lesson to ChatGPT everywhere—comfortable routines, sudden change, and the doubts that follow."
+excerpt: "In class 12th (2022–23) there was this English lesson in our textbook called *The Last Lesson* by Alphonse Daudet. The story revolves around this kid Franz..."
 coverImage: "/images/mgs2-codec-cover.png"
 coverCaption: "Metal Gear Solid 2- AI Speech"
 coverHref: "https://www.youtube.com/watch?v=C31XYgr8gp0"
