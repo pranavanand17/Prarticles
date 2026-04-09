@@ -2,7 +2,7 @@
 title: "What makes us human?"
 date: "2026-04-09"
 slug: "what-makes-us-human"
-excerpt: "When I was in school I would hear other kids say how much they hated school or how the education system sucks or general talk about..."
+excerpt: "Asking someone what marks they got, you're friend telling you he was talking to a girl, A comment on a person's appearance, being left out in a group, trying to make someone laugh so as to keep the conversation flowing...."
 coverImage: "/images/silent_voice.jpg"
 coverCaption: "A still from the movie- 'A Silent Voice'"
 coverHref: "https://myanimelist.net/anime/28851/koe_no_katachi"
