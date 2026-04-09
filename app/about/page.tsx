@@ -19,7 +19,7 @@ export default function AboutPage() {
         className="mx-auto mt-6 h-28 w-28 rounded-full border border-zinc-200 object-cover shadow-sm dark:border-zinc-700"
       />
       <p className="mx-auto mt-6 max-w-2xl font-serif text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">
-        Hello everynyun...I like writing bullshit...abot mostly whatever concerns me or has concerned me in the past. If you wanna read me rant about pointless stuff...feel free to go ham and I hope you enjoy :)
+        Hello everynyun...I like writing bullshit...about mostly whatever concerns me or has concerned me in the past. If you wanna read me rant about pointless stuff...feel free to go ham and I hope you enjoy :)
       </p>
     </section>
   );
