@@ -20,3 +20,6 @@ I wouldn't say I've struggled with insecurity but it has definetly played a huge
 My second encounter with insecurity is when I was going about my day minding my own business when one of my close friends told something along the lines of, "Blah blah blah blah your nose is big blah blah blah". This remark which was to him just a passing statement proceeded to severly warp my view of reality. I had gone 16 whole years at that point not second guessing the size of my nose to suddenly analyzing it's shape, size & how it got to be the way it was. I would laser focus on other people's noses trying to figure out what separated mine from their's, I would sometimes apply this slightpressure on it unconciously like somehow that would make it smaller. I have since undergone all the stages of grief from denial to acceptance multiple times surrounding the subject but every now and then it does still rub me the wrong way.
 
 
+I'M STILL WRITING THIS 🐌
+
+
