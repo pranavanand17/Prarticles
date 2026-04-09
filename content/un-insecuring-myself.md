@@ -1,7 +1,7 @@
 ---
 title: "Un-insecuring myself"
 date: "2026-04-09"
-slug: "un-insecuring myself"
+slug: "un-insecuring-myself"
 excerpt: "I'M STILL WRITING THIS 🐌"
 coverImage: "/images/silent_voice.jpg"
 coverCaption: "A still from the movie- 'A Silent Voice'"
