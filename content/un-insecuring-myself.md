@@ -27,7 +27,7 @@ My second encounter with insecurity is when I was going about my day minding my 
 
 I'm not really affected by these two much nowadays, but a certain photo angled a certain way or maybe a comment from someone can sometimes shatter through wall Maria, Rose & Sina in my mind and completely shatter any semblence of my self-confidence.
 
-# Hidden Gems
+## Hidden Gems
 There are also various subgeneres of insecurity, most of which I've noticed in other people (this might just be because I am a young adult in college but that doesn't make it any less real)
 
 I'M STILL WRITING THIS 🐌
