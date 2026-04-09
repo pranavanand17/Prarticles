@@ -2,7 +2,7 @@
 title: "What makes us human?"
 date: "2026-04-09"
 slug: "what-makes-us-human"
-excerpt: "Asking someone what marks they got, you're friend telling you he was talking to a girl, A comment on a person's appearance, being left out in a group, trying to make someone laugh so as to keep the conversation flowing...."
+excerpt: "I'M STILL WRITING THIS 🐌"
 coverImage: "/images/silent_voice.jpg"
 coverCaption: "A still from the movie- 'A Silent Voice'"
 coverHref: "https://myanimelist.net/anime/28851/koe_no_katachi"
