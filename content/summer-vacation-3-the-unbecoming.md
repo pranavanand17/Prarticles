@@ -60,7 +60,7 @@ Right now I've been doing fine more or less, The things I'm keeping myself busy 
 
 I'm currently watching Dragon Ball Z Kai and I've really enjoyed it so far, everything about the show screams (quite literally) THIS IS FUCKIN EPIC. It's also the perfect stream of motivation for anyone trying to get into going to the gym regularly. I'm out here trying to go Super Saiyan in my room all alone. 
 
-That's bout it, I've got maybe a few more weeks of this and I hope it ends just as nicely as it's gone, sort of a rocky start but more or less smooth sailing in slightly gloomy weather is how I would describe it.Here's to the future!! 🥂
+That's bout it, I've got maybe a few more weeks of this and I hope it ends just as nicely as it's gone, sort of a rocky start but more or less smooth sailing in slightly gloomy weather is how I would describe it. Here's to the future!! 🥂
 
 ## How it's going to go
 
