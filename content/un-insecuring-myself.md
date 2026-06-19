@@ -29,9 +29,9 @@ I'm not really affected by these two much nowadays, but a certain photo angled a
 
 ## Hidden Gems
 
-People show their insecurities in different ways, maybe it would be picking at another person, maybe it would be hiding a part of themselves or maybe it's something else entirely. Regardless of what someone's insecurity is and how it affects them I know for sure one thing that it isn't- it isn't something to run away from or hide, it isn't an excuse to find flaws in others.
+People show their insecurities in different ways, maybe by making fun of someone else, maybe by hiding a part of themselves or maybe it's something else entirely. Regardless of what someone's insecurity is and how it affects them I know for sure one thing that it isn't- it isn't something to run away from or hide, it isn't an excuse to find flaws in others.
 
-It is something to accept, understand, internalize. It provides you with a deeper knowledge of the type of person you are and who you wanna be. Are you going to be someone who calls other people ugly because deep down you think you yourself are ugly? Are you going to be someone who doesn't realize their full potential because you are scared of the judgement of others?
+It is something to accept, understand & internalize. It provides you with a deeper knowledge of the type of person you are and who you wanna be. Are you going to be someone who calls other people ugly because deep down you think you yourself are ugly? Are you going to be someone who doesn't realize their full potential because you are scared of the judgement of others?
 
 Fuck that.
 
@@ -43,4 +43,4 @@ Think about it this way, you might be looking at someone like, "Wow, they've got
 
 Fucking bullshit if I've ever heard it.
 
-If the end of this seems vaguely motivational it's cos...to be honest I don't care that much about this topic- the first half is really all I wanted to talk about & I wanted to finish it but off chance someone reading this does care I just wanted to say- You're beautiful just the way you are inside and out, love yourself & take care.
+If the end of this seems vaguely motivational it's cos... to be honest I don't care that much about this topic- the first half is really all I wanted to talk about & I didn't want to leave the post unfinished. But off chance someone reading this is struggling with insecurity or something along those lines I just wanted to say- You're beautiful just the way you are inside and out, love yourself & take care.
