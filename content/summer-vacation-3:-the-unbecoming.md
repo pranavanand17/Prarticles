@@ -1,7 +1,7 @@
 ---
 title: "Summer Vacation 3: The Unbecoming"
 date: "2026-06-19"
-slug: "summer-vacation-3\:-the-unbecoming"
+slug: "summer-vacation-3:-the-unbecoming"
 excerpt: "In class 12th (2022–23) there was this English lesson in our textbook called The Last Lesson by Alphonse Daudet. The story revolves around this kid Franz..."
 coverImage: "/images/mgs2-codec-cover.png"
 coverCaption: ""
