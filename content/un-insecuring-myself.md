@@ -2,7 +2,7 @@
 title: "Un-insecuring myself"
 date: "2026-04-09"
 slug: "un-insecuring-myself"
-excerpt: "I'M STILL WRITING THIS 🐌"
+excerpt: "Just a heads up... this is just a huge rant of me overanalyzing social situations & talking bout my insecurites..."
 coverImage: "/images/silent_voice.jpg"
 coverCaption: "A still from the movie- 'A Silent Voice'"
 coverHref: "https://myanimelist.net/anime/28851/koe_no_katachi"
