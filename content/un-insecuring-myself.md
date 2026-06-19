@@ -25,9 +25,22 @@ I used the cover of covid to wear a mask and cover this for the next few years a
 
 My second encounter with insecurity is when I was going about my day minding my own business when one of my close friends told something along the lines of, "Blah blah blah blah your nose is big blah blah blah". This statement which was to him just a passing remark proceeded to severly warp my view of reality. I had gone 16 whole years at that point not second guessing the size of my nose to suddenly analyzing it's shape, size & how it got to be the way it was. I would laser focus on other people's noses trying to figure out what separated mine from their's, I would sometimes apply this slightpressure on it unconciously like somehow that would make it smaller. I have since undergone all the 7 stages of grief from denial to acceptance multiple times concerning the subject but every now and then it does still rub me the wrong way.
 
-I'm not really affected by these two much nowadays, but a certain photo angled a certain way or maybe a comment from someone can sometimes destroy my mind's version of wall Maria, Rose & Sina in my mind and completely shatter any semblence of my self-confidence.
+I'm not really affected by these two much nowadays, but a certain photo angled a certain way or maybe a comment from someone can sometimes destroy my mind's version of wall Maria, Rose & Sina and completely shatter any semblence of my self-confidence.
 
 ## Hidden Gems
-There are also various subgeneres of insecurity, most of which I've noticed in other people (this might just be because I am a young adult in college but that doesn't make it any less real)
 
-I'M STILL WRITING THIS 🐌
+People show their insecurities in different ways, maybe it would be picking at another person, maybe it would be hiding a part of themselves or maybe it's something else entirely. Regardless of what someone's insecurity is and how it affects them I know for sure one thing that it isn't- it isn't something to run away from or hide, it isn't an excuse to find flaws in others.
+
+It is something to accept, understand, internalize. It provides you with a deeper knowledge of the type of person you are and who you wanna be. Are you going to be someone who calls other people ugly because deep down you think you yourself are ugly? Are you going to be someone who doesn't realize their full potential because you are scared of the judgement of others?
+
+Fuck that.
+
+Don't let your insecurities define you but at the same time don't run from them, understand them for what they are- another challenge put in your path to help shape you into becoming a better person as you see fit.
+
+'Cos at the end of the day no one is really looking at your height or your weight or your pimples or the shape of your face or your fucking nose in a negative way. Everyone's trying to find joy in life the same way you are- the last thing they are trying to do is try and find something "ugly" in their surroundings and remember it as such.
+
+Think about it this way, you might be looking at someone like, "Wow, they've got a perfect face, how lucky". While they are looking at you thinking the same thing.
+
+Fucking bullshit if I've ever heard it.
+
+If the end of this seems vaguely motivational it's cos...to be honest I don't care that much about this topic- the first half is really all I wanted to talk about & I wanted to finish it but off chance someone reading this does care I just wanted to say- You're beautiful just the way you are inside and out, love yourself & take care.
