@@ -3,10 +3,10 @@ title: "Summer Vacation 3: The Unbecoming"
 date: "2026-06-19"
 slug: "summer-vacation-3-the-unbecoming"
 excerpt: "I have no idea what the title means,I just thought it sounded cool."
-coverImage: "/images/mgs2-codec-cover.png"
-coverCaption: ""
-coverHref: ""
-coverAlt: ""
+coverImage: "/images/doxing.jpeg"
+coverCaption: "casually doxing myself"
+coverHref: "http://aaronhoyt.com/gfy.asp"
+coverAlt: "I ain't givin away my location mf!"
 ---
 
 I have no idea what the title means, I just thought it sounded cool.
