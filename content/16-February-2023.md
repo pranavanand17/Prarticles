@@ -2,11 +2,11 @@
 title: "16/02/23"
 date: "2026-07-01"
 slug: "16-February-2023"
-excerpt: ""
-coverImage: "/images/mgs2-codec-cover.png"
-coverCaption: "Metal Gear Solid 2- AI Speech"
-coverHref: "https://www.youtube.com/watch?v=C31XYgr8gp0"
-coverAlt: "Metal Gear Solid 2 codec screen showing Colonel Campbell and Raiden on frequency 140.85"
+excerpt: "A day in the life..."
+coverImage: "/images/spi.jpg"
+coverCaption: "I just came to my senses"
+coverHref: "https://youtu.be/EbHhQfTvMSA?si=DRw2ZuAktFU5vwLD"
+coverAlt: "Spiderverse wallpaper"
 ---
 
 # 16/02/23
